@@ -21,7 +21,7 @@ Bu proje, dijital reklam ajanslarının hizmetlerini tanıtmak ve potansiyel mü
 Web sitesi, tüm modern tarayıcılarda düzgün çalışacak şekilde tasarlanmıştır. Kullanıcılar, menü üzerinden farklı sayfalara geçiş yapabilir ve ajans hakkında bilgi alabilirler.
 
 ## Katkıda Bulunanlar
-- [Ahmet Faruk Çatlar] - Proje Geliştiricisi
+- Ahmet Faruk Çatlar - Proje Geliştiricisi
 
 ## Lisans
 Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
